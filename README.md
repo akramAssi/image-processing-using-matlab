@@ -1,1 +1,1 @@
-# image-processing-using-matlab
+# imageProcessingUsingMatlab
